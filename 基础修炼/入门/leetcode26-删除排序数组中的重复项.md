@@ -1,5 +1,7 @@
 ![image-20200921152433823](C:\Users\xiaodong\AppData\Roaming\Typora\typora-user-images\image-20200921152433823.png)
 
+java编码
+
 ```java
 class Solution {
     public int removeDuplicates(int[] nums) {
